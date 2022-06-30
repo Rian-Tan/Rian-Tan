@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![Rian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rian-Tan)](https://github.com/anuraghazra/github-readme-stats)
+![Rian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rian-Tan&count_private=true&show_icons=true&theme=cobalt)
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rian-Tan&theme=cobalt&layout=compact)</br>
 <!--
 **Rian-Tan/Rian-Tan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
