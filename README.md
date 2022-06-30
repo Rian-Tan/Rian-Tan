@@ -4,7 +4,9 @@
 
 
 Currently working on: nothing lol (hiatus time)
+
 Currently learning Rust 
+
 kotlin simp
 <!--
 **Rian-Tan/Rian-Tan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
