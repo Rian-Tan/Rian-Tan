@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rian-Tan&theme=nord&layout=compact)</br>
 
 
-Currently working on: nothing lol (hiatus time)
+Currently working on: [terminal music](https://github.com/Rian-Tan/Terminal-music)
 
 Currently learning Rust 
 
